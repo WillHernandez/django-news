@@ -1,6 +1,6 @@
 asgiref==3.7.2
 dj-database-url==2.1.0
-Django==5.0.1
+Django==4.2.9
 django-crispy-forms==1.9.2
 environs==10.3.0
 gunicorn==19.9.0
